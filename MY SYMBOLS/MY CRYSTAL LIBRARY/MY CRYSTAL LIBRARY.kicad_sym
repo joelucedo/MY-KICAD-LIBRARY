@@ -169,7 +169,7 @@
     (property "ki_keywords" "quartz ceramic resonator oscillator" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "24MHz 10pF ±10ppm ±20ppm SMD2016-4P Crystals" (id 5) (at 0 0 0)
+    (property "ki_description" "Crystal - 24MHz - 10pF 100R - ±20ppm  - SMD2016-4P " (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "Crystal*" (id 6) (at 0 0 0)

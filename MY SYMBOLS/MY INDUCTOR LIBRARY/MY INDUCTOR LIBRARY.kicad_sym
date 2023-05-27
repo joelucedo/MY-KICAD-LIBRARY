@@ -168,7 +168,7 @@
     (property "ki_keywords" "inductor choke coil reactor magnetic" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "520mA 68uH ±20% SMD Power Inductors" (id 5) (at 0 0 0)
+    (property "ki_description" "SMD Inductor - 68uH - 520mA  - 0R868 - ±20% " (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "Choke_* *Coil* Inductor_* L_*" (id 6) (at 0 0 0)

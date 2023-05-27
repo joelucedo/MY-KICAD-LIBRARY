@@ -15,7 +15,7 @@
     (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Power symbol creates a global label with name \"+3V3\"" (id 5) (at 0 0 0)
+    (property "ki_description" "Power symbol creates a global label with name \"SDRAM_3V3\"" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "SDRAM_3V3_0_1"
@@ -119,7 +119,7 @@
     (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Power symbol creates a global label with name \"+3V3\"" (id 5) (at 0 0 0)
+    (property "ki_description" "Power symbol creates a global label with name \"VSD_3V3\"" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "VSD_3V3_0_1"

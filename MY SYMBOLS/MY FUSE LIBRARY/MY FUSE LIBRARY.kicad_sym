@@ -15,7 +15,7 @@
     (property "ki_keywords" "resettable fuse PTC PPTC polyfuse polyswitch" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Resettable fuse - 9V - 200mA - 100A - 500mA" (id 5) (at 0 0 0)
+    (property "ki_description" "Resettable fuse - 9V - 200mA - 100A - 500mA - 0805" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "*polyfuse* *PTC*" (id 6) (at 0 0 0)
