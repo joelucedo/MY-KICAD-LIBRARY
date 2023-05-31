@@ -1,7 +1,7 @@
 (footprint "IRLML6401" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (descr "MOSFET P Channel 12V 4.3A 950mV @ 250uA 50mΩ @ 4.3A,4.5V SOT-23")
+  (descr " SOT-23 - MOSFET P Channel 12V 4.3A 950mV @ 250uA 50mΩ @ 4.3A,4.5V")
   (tags "Integrated Circuit")
   (attr smd)
   (fp_text reference "IC**" (at 0 0) (layer "F.SilkS")

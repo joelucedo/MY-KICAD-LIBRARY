@@ -1,9 +1,9 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-  (symbol "WM8978CGEFL{brace}brace}brace}slash}RV" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+  (symbol "WM8978CGEFL_RV" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
     (property "Reference" "U5" (id 0) (at -15.24 39.37 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "WM8978CGEFL{brace}brace}brace}slash}RV" (id 1) (at -6.35 36.83 0)
+    (property "Value" "WM8978CGEFL_RV" (id 1) (at -6.35 36.83 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "QFN32_5X5_CIR" (id 2) (at 22.86 -53.34 0)
@@ -18,7 +18,7 @@
     (property "ki_fp_filters" "QFN32_5X5_CIR QFN32_5X5_CIR-M QFN32_5X5_CIR-L" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "WM8978CGEFL{brace}brace}brace}slash}RV_1_1"
+    (symbol "WM8978CGEFL_RV_1_1"
       (rectangle (start -16.51 35.56) (end 19.05 -35.56)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))

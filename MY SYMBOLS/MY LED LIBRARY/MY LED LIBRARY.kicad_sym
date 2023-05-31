@@ -15,7 +15,7 @@
     (property "ki_keywords" "LED diode" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "20mA 518nm Emerald 120° 110mW 0603" (id 5) (at 0 0 0)
+    (property "ki_description" "Led Emerald - 0603 - 20mA - 110mW - 518nm - 120° " (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*" (id 6) (at 0 0 0)

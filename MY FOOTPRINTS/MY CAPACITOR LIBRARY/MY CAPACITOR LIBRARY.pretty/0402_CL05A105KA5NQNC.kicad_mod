@@ -1,7 +1,7 @@
 (footprint "0402_CL05A105KA5NQNC" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5F68FEEE)
-  (descr "0402 - SMD MLCC - 1uF - 25V - X5R - ±10%")
+  (descr "0402 - SMD MLCC")
   (tags "capacitor")
   (attr smd)
   (fp_text reference "REF**" (at 0 -1.16) (layer "F.SilkS")

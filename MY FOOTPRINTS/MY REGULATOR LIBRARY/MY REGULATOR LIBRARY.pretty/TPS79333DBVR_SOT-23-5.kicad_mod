@@ -1,7 +1,7 @@
 (footprint "TPS79333DBVR_SOT-23-5" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5F6F9B37)
-  (descr "SOT-23-5 -  Low-Noise, High PSRR, RF, 200-mA Low-Dropout Linear Regulators")
+  (descr "SOT-23-5 - Low-Noise, High PSRR, RF, 200-mA Low-Dropout Linear Regulators")
   (tags "SOT TO_SOT_SMD")
   (attr smd)
   (fp_text reference "REF**" (at 0 -2.4) (layer "F.SilkS")

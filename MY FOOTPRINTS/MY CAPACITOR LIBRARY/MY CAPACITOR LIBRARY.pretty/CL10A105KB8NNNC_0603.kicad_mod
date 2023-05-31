@@ -1,7 +1,7 @@
 (footprint "CL10A105KB8NNNC_0603" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5F68FEEE)
-  (descr "0603 - SMD MLCC - 1uF - 50V - X5R - ±10%")
+  (descr "0603 - SMD MLCC")
   (tags "capacitor")
   (attr smd)
   (fp_text reference "REF**" (at 0 -1.43) (layer "F.SilkS")

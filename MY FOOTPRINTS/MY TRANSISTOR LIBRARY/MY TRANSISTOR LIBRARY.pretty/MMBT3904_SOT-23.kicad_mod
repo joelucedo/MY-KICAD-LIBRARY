@@ -1,7 +1,7 @@
 (footprint "MMBT3904_SOT-23" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5FA16958)
-  (descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+  (descr "SOT23")
   (tags "SOT TO_SOT_SMD")
   (attr smd)
   (fp_text reference "REF**" (at 0.1016 -3.2004) (layer "F.SilkS")

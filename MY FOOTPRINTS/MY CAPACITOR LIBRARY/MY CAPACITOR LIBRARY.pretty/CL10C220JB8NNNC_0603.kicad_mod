@@ -1,7 +1,7 @@
 (footprint "CL10C220JB8NNNC_0603" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5F68FEEE)
-  (descr "SMD MLCC - 0603 - 22pF MLCC - 50V - C0G - ±5%")
+  (descr "0603 - SMD MLCC")
   (tags "capacitor")
   (attr smd)
   (fp_text reference "REF**" (at 0 -1.43) (layer "F.SilkS")

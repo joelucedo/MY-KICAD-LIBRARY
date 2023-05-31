@@ -3,7 +3,7 @@
     (property "Reference" "F1" (id 0) (at 0 3.81 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SMD0805P020TF" (id 1) (at 0 3.81 90)
+    (property "Value" "SMD0805P020TF" (id 1) (at -1.905 3.81 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "" (id 2) (at 5.08 1.27 0)
@@ -24,7 +24,7 @@
     (symbol "SMD0805P020TF_0_1"
       (rectangle (start -0.762 2.54) (end 0.762 -2.54)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
-        (fill (type background))
+        (fill (type none))
       )
       (polyline
         (pts

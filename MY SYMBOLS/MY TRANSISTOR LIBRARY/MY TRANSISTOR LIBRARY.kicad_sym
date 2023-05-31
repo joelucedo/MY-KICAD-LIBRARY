@@ -211,7 +211,7 @@
     (symbol "IRLML6401_0_1"
       (circle (center -0.889 0) (radius 2.794)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
       (circle (center 0 -1.778) (radius 0.254)
         (stroke (width 0) (type default) (color 0 0 0 0))

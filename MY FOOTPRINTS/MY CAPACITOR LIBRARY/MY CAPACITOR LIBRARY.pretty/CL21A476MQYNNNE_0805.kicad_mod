@@ -1,7 +1,7 @@
 (footprint "CL21A476MQYNNNE_0805" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5F68FEEE)
-  (descr "SMD MLCC - 0805 - 47uF - ±20% - X5R - 6.3V")
+  (descr "0805  - SMD MLCC")
   (tags "capacitor")
   (attr smd)
   (fp_text reference "REF**" (at 0 -1.68) (layer "F.SilkS")

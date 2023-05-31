@@ -1,7 +1,7 @@
 (footprint "0402_CL05B224KO5NNNC" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5F68FEEE)
-  (descr "0402 - SMD MLCC - 220nF - 16V - X7R - ±10%")
+  (descr "0402 - SMD MLCC")
   (tags "capacitor")
   (attr smd)
   (fp_text reference "REF**" (at 0 -1.16) (layer "F.SilkS")

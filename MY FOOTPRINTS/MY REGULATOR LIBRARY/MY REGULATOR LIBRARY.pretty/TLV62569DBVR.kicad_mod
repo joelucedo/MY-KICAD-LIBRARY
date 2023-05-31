@@ -1,7 +1,7 @@
 (footprint "TLV62569DBVR" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5F6F9B37)
-  (descr "SOT-23-5 DC-DC Converters")
+  (descr "SOT-23-5 - DC-DC Converters")
   (tags "SOT TO_SOT_SMD")
   (attr smd)
   (fp_text reference "REF**" (at 0 -2.4) (layer "F.SilkS")

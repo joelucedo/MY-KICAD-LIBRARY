@@ -1,7 +1,7 @@
 (footprint "0402_GCM1555C1H8R0DA16D" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5F68FEEE)
-  (descr "0402  - SMD MLCC - 8pF - 50V - C0G - 0.5pF")
+  (descr "0402  - SMD MLCC")
   (tags "capacitor")
   (attr smd)
   (fp_text reference "REF**" (at 0 -1.16) (layer "F.SilkS")

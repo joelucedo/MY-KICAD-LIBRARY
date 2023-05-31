@@ -1,6 +1,7 @@
 (footprint "SJ-63063B" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 64301190)
+  (descr "6.5mm TRS jack, horizontal, 3 conductor, through hole, 1 switch, w/ nut")
   (attr through_hole)
   (fp_text reference "REF**" (at -4.325 -8.135) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))

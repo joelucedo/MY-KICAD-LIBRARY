@@ -1,7 +1,7 @@
 (footprint "0402WGF2003TCE" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5F68FEEE)
-  (descr "200kΩ 0402 Chip Resistor 62.5mW ±1% ")
+  (descr "0402 SMD Resistor")
   (tags "resistor")
   (attr smd)
   (fp_text reference "REF**" (at 0 -1.17) (layer "F.SilkS")

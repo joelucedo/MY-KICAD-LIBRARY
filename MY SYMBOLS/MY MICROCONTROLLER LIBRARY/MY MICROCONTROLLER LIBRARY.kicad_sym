@@ -27,7 +27,7 @@
     (property "MAXIMUM_PACKAGE_HEIGHT" "3.45 mm" (id 8) (at 1.27 5.08 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
-    (property "ki_description" "Microcontroller " (id 9) (at 0 0 0)
+    (property "ki_description" "ESP32 Wrover E IE MCU Module" (id 9) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "ESP32-WROVER-E-N4R8_0_0"

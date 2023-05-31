@@ -1,7 +1,7 @@
 (footprint "ZX62D-B-5PA8(30)_smd" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5A1DC0BE)
-  (descr "http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf")
+  (descr "SMD USB Micro Type B connector")
   (tags "Micro-USB SMD Typ-B")
   (attr smd)
   (fp_text reference "REF**" (at 0 -3.1125) (layer "F.SilkS")
