@@ -36,12 +36,7 @@
   (pad "B" smd rect (at 3.004 -1.905 90) (size 0.886 1.104) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0ef05c44-fae4-4027-b723-3a958da1e408))
   (pad "C" smd rect (at -3.004 1.905 90) (size 0.886 1.104) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ea77ec04-63a0-48f7-b58c-288e140c07c1))
   (pad "D" smd rect (at 3.004 1.905 90) (size 0.886 1.104) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 06e3412a-f635-4f36-a1ed-2373a2624214))
-  (model "TS18-5-25-SL-260-SMT-TR.stp"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "C:/Users/32470/Desktop/SOUNDSOM/SOUNDSOM LIBRARIES/3dModels/TS-1187A-B-A-B.STEP"
+  (model "C:/Users/32470/Documents/GitHub/MY-KICAD-LIBRARY/MY 3D MODELS/TS-1187A-B-A-B.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

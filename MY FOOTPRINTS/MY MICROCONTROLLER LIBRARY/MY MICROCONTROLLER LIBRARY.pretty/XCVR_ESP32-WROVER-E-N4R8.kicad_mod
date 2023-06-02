@@ -114,7 +114,7 @@
       )
     )
   )
-  (model "C:/Users/32470/Desktop/SOUNDSOM/SOUNDSOM LIBRARIES/3dModels/ESP32-WROVER-IE_(16MB).step"
+  (model "C:/Users/32470/Documents/GitHub/MY-KICAD-LIBRARY/MY 3D MODELS/ESP32-WROVER-IE_(16MB).step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

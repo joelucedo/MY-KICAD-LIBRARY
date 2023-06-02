@@ -55,4 +55,9 @@
   (pad "A" thru_hole circle (at -7.5 -2.5) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask) (tstamp 13bc61b0-06f5-4c67-aa15-20eed45a5a01))
   (pad "B" thru_hole circle (at -7.5 2.5) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask) (tstamp 220a81ff-06c7-4a11-b62f-afe93f9f87ec))
   (pad "C" thru_hole circle (at -7.5 0) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask) (tstamp e686ebed-ed8a-4161-ac74-2511af74b70b))
+  (model "C:/Users/32470/Documents/GitHub/MY-KICAD-LIBRARY/MY 3D MODELS/PEC12R-4025F-S24.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 -90))
+  )
 )

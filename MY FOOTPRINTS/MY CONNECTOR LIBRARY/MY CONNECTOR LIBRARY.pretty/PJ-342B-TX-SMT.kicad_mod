@@ -193,7 +193,7 @@
   (pad "5" smd rect (at -3.6068 -3.7846) (size 2.0066 1.4986) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3ff50ff1-767b-4d60-a645-e955ce052352))
   (pad "6" smd rect (at -3.6068 -0.4826) (size 2.0066 1.4986) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6080e3b8-aa03-4931-af6d-9a44123eb768))
   (pad "7" smd rect (at -3.6068 5.0038) (size 2.0066 1.4986) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 585d94c5-49ba-47f1-8aa1-5bdbe296923b))
-  (model "C:/Users/32470/Desktop/SOUNDSOM/SOUNDSOM LIBRARIES/3dModels/PJ-342B-TX-SMT.stp"
+  (model "C:/Users/32470/Documents/GitHub/MY-KICAD-LIBRARY/MY 3D MODELS/PJ-342B-TX-SMT.stp"
     (offset (xyz 0 6 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

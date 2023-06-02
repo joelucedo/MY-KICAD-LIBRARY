@@ -47,4 +47,9 @@
   (pad "S2" thru_hole oval (at -4.32 0) (size 1 2) (drill oval 0.6 1.4) (layers *.Cu *.Mask) (tstamp 0f36df9f-1cb1-495d-8c79-b66b13e243c1))
   (pad "S3" thru_hole oval (at 4.32 0) (size 1 2) (drill oval 0.6 1.4) (layers *.Cu *.Mask) (tstamp 97a27d02-0a28-4f4d-a3bf-bc93e358b65d))
   (pad "S4" thru_hole oval (at 4.32 -4.18) (size 1.05 2.1) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp 68aada05-c9f7-473a-b4c4-9fe14b55682c))
+  (model "C:/Users/32470/Documents/GitHub/MY-KICAD-LIBRARY/MY 3D MODELS/GCT_USB4105-GF-A-060.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
