@@ -33,7 +33,7 @@
   (pad "1" smd rect (at -1.25 -0.95 90) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 39006427-b639-40bf-b204-1d42024feef3))
   (pad "2" smd rect (at -1.25 0.95 90) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 05844fe2-6acc-4c8e-aa6a-4d235158e156))
   (pad "3" smd rect (at 1.25 0 90) (size 0.6 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d7c3cdef-5726-4ab8-ba3c-38291ed1df78))
-  (model "C:/Users/32470/Documents/GitHub/MIMXRT1064-MCU-Module/LIBRARIES/3dModels/UM803RS.stp"
+  (model "C:/Users/32470/Documents/GitHub/MY-KICAD-LIBRARY/MY 3D MODELS/UM803RS.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

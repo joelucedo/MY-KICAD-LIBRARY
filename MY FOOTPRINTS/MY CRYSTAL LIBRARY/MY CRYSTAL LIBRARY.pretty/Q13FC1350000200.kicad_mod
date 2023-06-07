@@ -40,7 +40,7 @@
   (fp_line (start -1.6 0.75) (end 1.6 0.75) (layer "F.Fab") (width 0.2) (tstamp b7432b88-245e-455a-b617-a1cc1714a474))
   (pad "1" smd rect (at -1.25 0) (size 1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8bd63244-6821-41a0-b707-ad01bba6fe6c))
   (pad "2" smd rect (at 1.25 0) (size 1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 99e9b2e7-293c-48ff-85ec-3cda47325dc8))
-  (model "C:/Users/32470/Documents/GitHub/MIMXRT1064-MCU-Module/LIBRARIES/3dModels/Q13FC1350000200.STEP"
+  (model "C:/Users/32470/Documents/GitHub/MY-KICAD-LIBRARY/MY 3D MODELS/Q13FC1350000200.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

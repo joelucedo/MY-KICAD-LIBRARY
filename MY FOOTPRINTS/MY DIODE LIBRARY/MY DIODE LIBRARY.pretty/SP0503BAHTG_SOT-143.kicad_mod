@@ -32,7 +32,7 @@
   (pad "2" smd rect (at 0.96 1) (size 0.55 1.31) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d7f6291a-fa10-47f9-961a-2cc4cd3a7e9c))
   (pad "3" smd rect (at 0.96 -1) (size 0.55 1.31) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9ffa8f39-8d0a-4af5-a314-d536bebe8523))
   (pad "4" smd rect (at -0.96 -1) (size 0.55 1.31) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 63b3f248-afe1-44cb-8c6b-3ed397260f29))
-  (model "C:/Users/32470/Desktop/SOUNDSOM/SOUNDSOM LIBRARIES/3dModels/SP0503BAHTG.stp"
+  (model "C:/Users/32470/Documents/GitHub/MY-KICAD-LIBRARY/MY 3D MODELS/SP0503BAHTG.stp"
     (offset (xyz 0 0 0.6))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
